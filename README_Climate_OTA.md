@@ -1,6 +1,9 @@
 **File: README_Climate_OTA**
 
-TODO: Polar Fortext Events
+## TODO: 
+- Polar Fortext Events
+- Paul's science link in my email
+
 
 # Strategic Approach for Resilient and Scalable Military Installation Facilities in the USA
 This document outlines a strategy to build **resilient** and **scalable** military installation facilities tailored to the unique challenges of **deserts**, **mountainous regions**, and **coastal areas** in the United States of America, under Other Transactional Authority (OTA).
