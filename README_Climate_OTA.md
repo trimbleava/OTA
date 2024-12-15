@@ -40,7 +40,7 @@ This consolidated framework provides a holistic view of external forces to ensur
 
 ## External Forces Analysis by Physiography
 
-[Comparison of Forces Affecting Coastal, Desert, and Mountainous Installations](./docs/README_Comparison_Forces_Affecting_Installations_by_Physiography.md)
+[Comparison of Forces Affecting Coastal, Desert, and Mountainous Installations](./README_Comparison_Forces_Affecting_Installations_by_Physiography.md)
 
 While all installations face some level of vulnerability to atmospheric, environmental, and technological forces, the intensity and nature of these forces vary depending on the geographic context. **Planners must prioritize mitigation strategies tailored to each location's unique challenges.**
 
@@ -48,7 +48,7 @@ This strategic approach enables the Department of Defense to build military inst
 
 ---
 
-[Physical Geographic Division of the USA by States](./docs/README_USA_Physiography.md)
+[Physical Geographic Division of the USA by States](./README_USA_Physiography.md)
 
 Any region in the USA, based on physiological analysis, could be a candidate for future installations. It is essential to have a prototype ready for each of the three divisions.
 
@@ -56,13 +56,13 @@ Any region in the USA, based on physiological analysis, could be a candidate for
 
 These prototypes are implemented in California, which hosts several military installations across its diverse landscapes, including coastal, desert, and mountainous regions. Here's a breakdown of notable bases in each area:
 
-[California Military Installations](./docs/README_Military_Installations_California.md)
+[California Military Installations](./README_Military_Installations_California.md)
 
 The analysis of forces affecting the California Military Installations highlights the importance of understanding and addressing multifaceted challenges to maintain the operational readiness and resilience of California's military installations.
 
 ---
 
-[Resilient and Scalable Installation Design Plan](./docs/README_Resilient_Scalable_Design_Plan.md)
+[Resilient and Scalable Installation Design Plan](./README_Resilient_Scalable_Design_Plan.md)
 
 By following this comprehensive approach, you can ensure the Installations are resilient to external forces while creating a scalable blueprint for deployment in diverse locations.
 
@@ -251,9 +251,9 @@ By designing systems, infrastructure, and operations with scalability in mind, C
 
 China Lake is an unincorporated community in Kern County, California. It is located 2.5 miles (4 km) north-northeast of Ridgecrest, at an elevation of 2,264 feet (690 m). The place is on China Lake, a dry lake near the Naval Air Weapons Station China Lake.
 
-Naval Air Weapons Station China Lake set in the western Mojave Desert, it specializes in research, development, and testing of naval weapons systems. See [Location Assessment](./docs/READEME_ChinaLake-Assessment.md)
+Naval Air Weapons Station China Lake set in the western Mojave Desert, it specializes in research, development, and testing of naval weapons systems. See [Location Assessment](./READEME_ChinaLake-Assessment.md)
 
-This Installation falls under [Desert](./docs/README_Terrain_Analysis_China_Lake.md)
+This Installation falls under [Desert](./README_Terrain_Analysis_China_Lake.md)
 
 
 - Extreme temperature fluctuations
@@ -300,7 +300,7 @@ Installation commands here
 Usage example here
 ```
 
-## References
+## References - would not work here
 - https://sentinellandscapes.org/landscapes/mojave-desert/
 - Z:\PROJECT\1M9430_9003_XXX_SW CLIMATE OTA
 - \\vsr-age.versar.local
